@@ -1,0 +1,10 @@
+# Pothole Detection Configuration
+path: ./data
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['pothole']
